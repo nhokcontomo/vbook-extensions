@@ -4,7 +4,7 @@
     "author": "vBook",
     "version": 8,
     "source": "https://truyenvn.vip",
-    "regexp": "(www.)?truyenvn.(com|tv|vip)/[^/]+/?$",
+    "regexp": "(www.)?truyenvn.(org|com|tv|vip)/[^/]+/?$",
     "description": "Đọc truyện trên trang Truyện VN",
     "locale": "vi_VN",
     "language": "javascript",
